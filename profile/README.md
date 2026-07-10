@@ -1,7 +1,7 @@
 # 🛸 Out of the Box (OOB) IoT SEC Labs
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/你的组织名/你的仓库名/main/你的图标文件名.png" alt="OOB IoT SEC Labs Logo" width="300">
+  <img src="[https://raw.githubusercontent.com/你的组织名/你的仓库名/main/你的图标文件名.png](https://github.com/oob-iot-sec-labs/.github/blob/main/profile/Gemini_Generated_Image_worva0worva0worv.png)" alt="OOB IoT SEC Labs Logo" width="300">
 </p>
 
 <p align="center">
