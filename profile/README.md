@@ -1,7 +1,7 @@
 # 🛸 Out of the Box (OOB) IoT SEC Labs
 
 <p align="center">
-<img width="800" alt="OOB IoT SEC Labs Logo" src="https://github.com/oob-iot-sec-labs/.github/blob/main/profile/OOB.png" />
+<img alt="OOB IoT SEC Labs Logo" src="https://github.com/oob-iot-sec-labs/.github/blob/main/profile/OOB.png" />
 
 </p>
 
