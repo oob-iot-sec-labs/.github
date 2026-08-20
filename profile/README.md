@@ -21,7 +21,7 @@
 
 **OOB IoT SEC Labs** 拒绝流水线式的复刻。我们致力于**培养具备独立思考能力、能够打破规则、重构技术直觉的创造性安全研究员**。虽然我们的主战场是广阔的<strong>物联网与智能连接设备（IoT）</strong>生态，但我们的方法论原生融合了高级二进制分析、人工智能赋能以及安全工具自研开发，旨在从第一性原理出发解构一切防御系统。
 
-**我们的社区** [oobsec](https://www.oobsec.cn)
+*   **我们的社区** [oobsec](https://www.oobsec.cn)
 ---
 
 ## 🏗️ 研究与培训模块 (Research & Training Modules)
