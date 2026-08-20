@@ -7,7 +7,7 @@
 <p align="center">
   <strong>“如果思维有边界，那就溢出它。”</strong>
 </p>
-**www.oobsec.cn** [oob-iot-sec](https://www.oobsec.cn)
+
 <p align="center">
   <img src="https://img.shields.io/badge/核心方向-物联网与硬件安全-orange?style=for-the-badge" alt="Focus">
   <img src="https://img.shields.io/badge/前沿技术-二进制与人工智能自动化-blue?style=for-the-badge" alt="Tech">
@@ -20,7 +20,7 @@
 在嵌入式系统与智能基础设施的安全世界里，最坚固的牢笼往往不是厂商的加密算法，而是被“检查清单（Checklist）”和“工具依赖”所束缚的僵化思维。
 
 **OOB IoT SEC Labs** 拒绝流水线式的复刻。我们致力于**培养具备独立思考能力、能够打破规则、重构技术直觉的创造性安全研究员**。虽然我们的主战场是广阔的<strong>物联网与智能连接设备（IoT）</strong>生态，但我们的方法论原生融合了高级二进制分析、人工智能赋能以及安全工具自研开发，旨在从第一性原理出发解构一切防御系统。
-
+**我们的社区** [oobsec](https://www.oobsec.cn)
 ---
 
 ## 🏗️ 研究与培训模块 (Research & Training Modules)
